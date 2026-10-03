@@ -139,6 +139,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.9.1"
+  progress_circle:
+    dependency: "direct main"
+    description:
+      name: progress_circle
+      sha256: "9c6122f0eda9335c1d401fe00ae2270b727ac7fbe51ff84b6bd606efb0a14a54"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.2.0"
   sky_engine:
     dependency: transitive
     description: flutter
